@@ -87,4 +87,5 @@ public class MainActivity extends AppCompatActivity {
             mBluetoothAdapter.stopLeScan(mLeScanCallback);
         }
     }
+    //This is a comment from Edel
 }
