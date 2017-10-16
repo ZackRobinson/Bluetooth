@@ -87,4 +87,7 @@ public class MainActivity extends AppCompatActivity {
             mBluetoothAdapter.stopLeScan(mLeScanCallback);
         }
     }
+
+
+    //This is to test the merge functions
 }
